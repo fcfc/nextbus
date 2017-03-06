@@ -1,6 +1,6 @@
 <?php
 /**
- * foundation.php
+ * getPredictions.php
 */
   $ROUTEURL = "http://webservices.nextbus.com/service/publicXMLFeed?command=predictions&a=";
 
